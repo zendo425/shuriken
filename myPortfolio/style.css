@@ -1,0 +1,55 @@
+  body {
+
+  background: url('bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+  }
+
+
+  h1 {
+    color: rgb(22, 204, 180);
+    font-size: 50px;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  h2 {
+    color: rgb(22, 204, 180);
+    font-size: 30px;
+    margin-top: 15;
+  }
+
+  .bio {
+    color: rgb(22, 204, 180);
+    font-size: 30 px;
+  }
+
+  .me {
+    height: 180px;
+    border-radius: 80%;
+    border-style: solid;
+    border-color: white;
+    margin-top: 40px;
+  }
+
+  .about {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .line {
+    height: 6px;
+    background-color: rgb(236, 219, 219) ;
+    border: none;
+    width: 80%;
+  }
+
+  #biophy {
+    background-color: rgb(228, 42, 42);
+  }
+  
+  
